@@ -1,0 +1,5 @@
+python3 -c "import os; [os.system('mkdir ~/Desktop/{0}'.format(str(x))) for x in range(5)]"
+#populates 100 folders on the Desktop of unware user
+
+gnome-terminal
+#put on .bashrc so populate gnome-terminals all over the screen
